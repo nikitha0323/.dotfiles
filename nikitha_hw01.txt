@@ -1,0 +1,12 @@
+https://github.com/nikitha0323/.dotfiles
+
+mkdir
+pwd
+cd
+cat 
+vim
+git
+
+Through this assignment, I was able to work with github's website and git version control system on the command line. I think I performed pretty well. It didn't take me as long as I thought it would and the instructions were easy to follow. The only challange/struggle I faced was with being in different directories. I was constantly confused on which directory to work on so had to redo couple steps to get back on track. 
+
+Resourses used: Google, Lecture slides, and my brain. 
